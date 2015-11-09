@@ -5,3 +5,5 @@ This guide is maintained by the Harvard College Midwest Club and is meant to ser
 high school students. It has been so far sent out to over 6,000 principals representing 8,000,000 students.
 
 We would like any additional college advice you feel we've missed, editable in index.html
+
+A working version of the site can be found at harvardcollegemidwestclub.com
